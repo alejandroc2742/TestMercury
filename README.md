@@ -1,6 +1,6 @@
 # MercuryTest
 
-Prueba técnica para nuevos ingenieros Mercury.
+Prueba técnica para nuevos ingenieros Mercury. Este proyecto usa Lombok, por lo cual se recomienda descargar el jar de lombok e instalarlo en el IDE en el que se presentará la prueba.
 
 ## Instalación
 
